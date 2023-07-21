@@ -1548,12 +1548,12 @@
 .section-wrapper[data-v-088bef28] {
     position: relative;
     background: var(--color-institutional-background-primary);
-    padding: 40px 20px
+    padding: 30px 20px
 }
 
 @media only screen and (min-width:550px) {
     .section-wrapper[data-v-088bef28] {
-        padding: 40px 80px
+        padding: 30px 80px
     }
 }
 
